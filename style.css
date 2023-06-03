@@ -1,13 +1,12 @@
-@font-face {
-    font-family: calculator;
-    src: url(Calculator.ttf);
-}
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@300&display=swap');
 
 *{
     margin: 0;
     padding: 0;
 }
-
+body{
+    font-family: 'Chakra Petch', sans-serif;
+}
 .container{
     display: flex;
     justify-content: center;
