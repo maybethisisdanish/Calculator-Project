@@ -7,6 +7,7 @@
 body{
     background-image:url(https://c4.wallpaperflare.com/wallpaper/1012/939/595/technics-technology-internet-web-wallpaper-preview.jpg);
     background-size: cover;
+    backgrond-attachment: fixed;
     font-family: 'Chakra Petch', sans-serif;
 }
 .container{
